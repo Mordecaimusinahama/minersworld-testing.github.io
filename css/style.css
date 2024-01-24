@@ -1,13 +1,4 @@
-/*
-* Template Name: Agriculture
-* Template Author: Untree.co
-* Template License: https://creativecommons.org/licenses/by/3.0/
-* Author URI: https://untree.co/
 
-* Twitter: https://twitter.com/Untree_co
-* Facebook: https://web.facebook.com/Untree.co/
-*/
-/* Base */
 html {
   overflow-x: hidden; }
 
@@ -1379,7 +1370,7 @@ h1, h2, h3, h4, h5,
     padding-bottom: 0;
     position: relative;
     overflow: hidden;
-    margin-bottom: 30px; }
+    margin-top: 50px; }
   .person img {
     -webkit-transition: .3s all ease;
     -o-transition: .3s all ease;
